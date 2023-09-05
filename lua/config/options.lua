@@ -4,7 +4,7 @@
 
 local opt = vim.opt
 
-opt.guifont = "SauceCodePro Nerd Font Mono:13"
+opt.guifont = "SauceCodePro Nerd Font Mono:h13"
 
 -- Line numbers and other visual guidelines
 opt.number = true
