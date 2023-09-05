@@ -1,11 +1,3 @@
-require("lazy").setup({
-  spec = {
-    { "LazyVim/LazyVim", import = "lazyvim.plugins" },
-    { import = "lazyvim.plugins.extras.lang.elixir" },
-    { import = "plugins" },
-  },
-})
-
 return {
   {
     "nvim-treesitter/nvim-treesitter",
